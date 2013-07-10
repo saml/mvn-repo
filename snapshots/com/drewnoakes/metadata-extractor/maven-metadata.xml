@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.drewnoakes</groupId>
+  <artifactId>metadata-extractor</artifactId>
+  <versioning>
+    <versions>
+      <version>2.7.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130710204917</lastUpdated>
+  </versioning>
+</metadata>
